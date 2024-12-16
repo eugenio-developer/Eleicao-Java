@@ -10,6 +10,7 @@ O sistema permite o gerenciamento de uma eleição, onde é possível realizar a
 2. **Cadastrar Candidatos**: O administrador pode cadastrar candidatos para a eleição.
 3. **Realizar Votação**: O eleitor pode votar em um candidato disponível.
 4. **Exibir Resultados**: Ao término da eleição, o sistema exibe os candidatos vencedores e a quantidade de votos recebidos por cada um.
+![image](https://github.com/user-attachments/assets/ab70bf05-7d11-4dfc-aa81-c1356f953a15)
 
 ## Tecnologias Utilizadas
 
@@ -17,6 +18,7 @@ O sistema permite o gerenciamento de uma eleição, onde é possível realizar a
 - **Eclipse**: IDE utilizada para o desenvolvimento.
 - **Padrão MVC**: Estruturação do projeto utilizando Model-View-Controller.
 - **POO**: Aplicação de conceitos de Programação Orientada a Objetos (Polimorfismo, Herança, Encapsulamento).
+![image](https://github.com/user-attachments/assets/d352e82c-4798-45d6-9daf-278b36df1935)
 
 ## Como Executar
 
